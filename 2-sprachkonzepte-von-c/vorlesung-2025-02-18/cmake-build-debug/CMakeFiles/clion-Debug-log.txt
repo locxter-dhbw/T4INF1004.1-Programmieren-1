@@ -1,0 +1,4 @@
+/snap/clion/322/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/322/bin/ninja/linux/x64/ninja -G Ninja -S /media/locxter/data/university/bachelor-informatik/studienjahr-1/theoriephase-1/programmieren-1/2-sprachkonzepte-von-c/vorlesung-2025-02-18 -B /media/locxter/data/university/bachelor-informatik/studienjahr-1/theoriephase-1/programmieren-1/2-sprachkonzepte-von-c/vorlesung-2025-02-18/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /media/locxter/data/university/bachelor-informatik/studienjahr-1/theoriephase-1/programmieren-1/2-sprachkonzepte-von-c/vorlesung-2025-02-18/cmake-build-debug

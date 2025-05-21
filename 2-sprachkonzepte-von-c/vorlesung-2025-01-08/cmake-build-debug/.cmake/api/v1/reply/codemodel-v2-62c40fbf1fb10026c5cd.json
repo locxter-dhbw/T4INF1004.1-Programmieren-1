@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "vorlesung_2025_01_08",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "vorlesung_2025_01_08::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vorlesung_2025_01_08-Debug-b03c16922d3f92a4f925.json",
+					"name" : "vorlesung_2025_01_08",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/locxter/data/university/bachelor-informatik/studienjahr-1/theoriephase-1/programmieren-1/2-sprachkonzepte-von-c/vorlesung-2025-01-08/cmake-build-debug",
+		"source" : "/media/locxter/data/university/bachelor-informatik/studienjahr-1/theoriephase-1/programmieren-1/2-sprachkonzepte-von-c/vorlesung-2025-01-08"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

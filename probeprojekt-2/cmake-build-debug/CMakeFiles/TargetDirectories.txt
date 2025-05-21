@@ -1,0 +1,3 @@
+/media/locxter/data/university/bachelor-informatik/studienjahr-1/theoriephase-1/programmieren-1/probeprojekt-2/cmake-build-debug/CMakeFiles/probeprojekt_2.dir
+/media/locxter/data/university/bachelor-informatik/studienjahr-1/theoriephase-1/programmieren-1/probeprojekt-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/locxter/data/university/bachelor-informatik/studienjahr-1/theoriephase-1/programmieren-1/probeprojekt-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

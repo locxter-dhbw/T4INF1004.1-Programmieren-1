@@ -1,0 +1,17 @@
+# ninja log v6
+10	20	1739882191723340500	CMakeFiles/uebung_4.dir/main11.c.o	ed5017880a79d46a
+2	18	1739564952527811549	CMakeFiles/uebung_4.dir/main5.c.o	d4d09e13b40a9e47
+11	34	1739882191724340449	CMakeFiles/uebung_4.dir/mainextra.c.o	178be08a52814e7c
+35	52	1739882191748339230	uebung_4	11c060ffb5111aef
+4	17	1739564952529811433	CMakeFiles/uebung_4.dir/main13.c.o	ae735c09f367df3e
+1	17	1739564952526811607	CMakeFiles/uebung_4.dir/main3.c.o	805866425ab2c91b
+3	16	1739564952528811491	CMakeFiles/uebung_4.dir/main12.c.o	dd65e68ce68e9af8
+1	13	1739564952526811607	CMakeFiles/uebung_4.dir/main2.c.o	81eefc4369ec8b1a
+1	27	1739564952526811607	CMakeFiles/uebung_4.dir/main1.c.o	c5560f698415170
+11	20	1739882191724340449	CMakeFiles/uebung_4.dir/main14.c.o	f6cea4b732489c47
+2	19	1739564952527811549	CMakeFiles/uebung_4.dir/main6.c.o	852ec66691cfa364
+2	14	1739564952527811549	CMakeFiles/uebung_4.dir/main7.c.o	93c28477ca793b07
+3	14	1739564952528811491	CMakeFiles/uebung_4.dir/main8.c.o	a4ae0dc4faf2d69d
+3	19	1739564952528811491	CMakeFiles/uebung_4.dir/main9.c.o	2597dad3d9b6abad
+2	14	1739564952527811549	CMakeFiles/uebung_4.dir/main4.c.o	3d4ff71b251f5a69
+1	15	1739568841823339551	CMakeFiles/uebung_4.dir/main10.c.o	bc82b6bc581e7ddf
